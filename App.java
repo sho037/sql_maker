@@ -22,7 +22,7 @@ public class App {
             
         }
         
-        sc.close();
+        input.close();
         return;
     }
 }
